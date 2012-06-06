@@ -1,0 +1,7 @@
+##Openpeak 7E Android Device Configuration##
+This repo is based on Mijuu's O2 Joggler device profile and it aims to fix things for the OpenPeak 7E device. Most functions are working except WiFi and Ethernet on boot (has to be manually enabled).
+
+TODO:
+WiFi Driver
+Fix red border (Joggler & 7E)
+Fix Logcat touch input warnings (Joggler & 7E)
